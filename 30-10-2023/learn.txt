@@ -1,0 +1,11 @@
+I learnt some commands in cmd and github:
+    1: GUI- graphical user interface. //this is not a command.
+    2: dir/ls- it lists all the directories.
+    3: cls/clear: it clears the screen. //CLS isn't accepted by github.
+    4: md/mkdir: this creates a directory. //MD isn't accepted by github.
+    5: ren/mv: this renames a directory. //REN isn't accepted by github.
+    6: rmdir: this removes a directory.
+    7: touch: this creates a text file. (bash command)
+    8. code .: this command opens the current dir/folder in visual studio code.
+
+    However directories is also the same as folder. So when you hear directory it means folder.

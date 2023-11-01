@@ -1,0 +1,12 @@
+I practised some git commands:
+    i.e: 
+    cd (name of the directory)
+    cd .. (back to previous directory)
+    cls
+    md
+    del
+    echo
+    ren
+    rmdir
+    touch
+    code .

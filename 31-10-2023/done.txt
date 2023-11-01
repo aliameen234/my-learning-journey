@@ -1,0 +1,14 @@
+what i learnt today :
+    1: i learnt how to use git bash
+    2: i learnt some new git commands:
+        1: git init: this initialises git. i.e this creates a hidden folder in your directory
+        2: git status: it lets you see which changes have been staged, which haven't, and which files aren't tracked by git
+        3: git add: it adds a change in the working directory to the staging area
+        4: git commit -m: this is used to add a commit message
+        5: git branch: this lets you create,list,rename, and delete branch
+        6: git checkout: this lets you navigate between branches created by git-branch
+        7: git remote add origin: this is used to establish a connection between your local git repository and a remote repository
+        8: git push: this is used to upload local repository content to a remote repository
+        9: git clone: this is used to point to an existing repository and make a clone or copy of that repository in a new directory,
+                        at another location
+        10: git fetch: it downloads commit,files, and refs from a remote repository into your local repository

@@ -1,0 +1,15 @@
+i practised: 
+    1: cd 
+    2: ls 
+    3: mv
+    4: mkdir
+    5: touch
+    6: git init
+    7: git add 
+    8: git status
+    9: git commit -m (commit message)
+    10: git branch
+    11: git checkout
+    12: git push
+    13: git fetch
+    14: git clone
