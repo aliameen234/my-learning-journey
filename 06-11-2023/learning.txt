@@ -1,0 +1,16 @@
+what i did on monday:
+    1: i read logic building and effective problem solving book with some examples and definition:
+    2: Creating Flowcharts Using RAPTOR:
+        RAPTOR is a software that was designed specifically for Creating Flowcharts. it also allows the student yo execute and debug flowcharts.
+    3: i downloaded RAPTOR and installed it
+    4: i learnt some symbol
+        input
+        process
+        output
+        decision
+        initiator
+        procedure
+        loop
+    5: i did an example where i add two numbers to display their sum
+    6: i did another example where i need to determine whether the number is even or odd
+    7: i did a third example where student grade where displayed,if a wrong grade was entered "INVALID INPUT" should be displayed
