@@ -1,0 +1,27 @@
+what i learnt on tuesday:
+    1. I read about scratch:
+        scratch is a software that was designed specifically for creating pseudocode.
+    2. i downloaded it from "http:/info.scratch.mit.edu/scratch_1.4_Download"
+    3. i installed it on my laptop
+    4. then i went through some other definition:
+            Scratch can be used for creating small programs/pseudocode, animation and games.
+    5. i read about the scratch interface various buttons:
+        Motion
+        Looks
+        Sound
+        Pen
+        Control
+        Sensing
+        Operators
+        Variables
+        The scratch interface provides the following tabs for the creation of programs/pseudocode:
+        Scripts
+        Costumes
+        Sounds
+        In addition the scratch interface contains the following panes:
+        Output pane 
+        New sprite pane
+    6. i read the steps on how to create a pseudocode:
+        To create a pseudocode, you need to drag the required structures from the "structures pane" and then, drag them
+        in the Scripts tab. After dragging the required structures and connecting them together to form a pseudocode, you 
+        can execute it and verify the Output in the Output pane

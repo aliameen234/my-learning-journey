@@ -13,4 +13,4 @@ what i did on monday:
         loop
     5: i did an example where i add two numbers to display their sum
     6: i did another example where i need to determine whether the number is even or odd
-    7: i did a third example where student grade where displayed,if a wrong grade was entered "INVALID INPUT" should be displayed
+    7: i did a third example where student grade where displayed  ,if a wrong grade was entered "INVALID INPUT" should be displayed
