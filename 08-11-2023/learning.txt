@@ -1,0 +1,8 @@
+i learnt some things on logic building and effective problem solving today:
+    1. Algorithm 
+        an Algorithm is a sequence of steps required to solve a problem
+    2. Flowchart
+        a Flowchart is a graphical representation of an Algorithm
+    3. pseudocode
+        a pseudocode is a detailed yet readable description of what an algorith must do 
+    4. and we did some question
