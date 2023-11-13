@@ -1,0 +1,11 @@
+i read logic building and effective problem solving textbook: 
+    1. i read about the i.p.o cycle
+    2. i read about programs and programming language:
+        1. sequential: instructions that are executed one after the other.
+        2. Decision making: instructions that evaluate an expression (relation or condition) first and then, depending upon
+                            whether the value of the expression is true or false, the control is transferred to a particular
+                            statement.
+        3. Iterative: instructions that are executed repeatedly, depending upon the value of an expression (relation or condition)
+    3. compiler: a compiler is a special program that processes the statements written in a particular programming language
+                 and converts them into machine language, at oe go.
+    
