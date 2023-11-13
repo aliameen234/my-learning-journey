@@ -1,1 +1,5 @@
-the teacher just revised the first slide of  logic for the new students and some explanation
+1: i learnt that a computer:
+    1. accept input from user
+    2. processes the input
+    3. Generates output
+2. the cycle of activities performed by a computer is also known as the input process output (I.P.O) cycle
