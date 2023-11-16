@@ -1,0 +1,25 @@
+what i learnt on wednesday:
+    1: we learnt the rules for creating flowchart
+    2: the teacher explained some things about pseudocode to us and we did some classwork:
+
+    -QUESTION: Draw a simple flowchart to accept the principle,rate and times value and display the simple interest.
+    -ANSWER:    begin
+                Numeric p,r,t,si
+                Display 'Enter the principal amount'
+                Accept p
+                Display 'Enter the rate'
+                Accept r
+                Display 'Enter period of time'
+                Accept t
+                si = (p*r*t)/100
+                Display si
+                end
+
+    -QUESTION: Draw a flowchart that accepts the length and breadth of a rectangle and displays its area and perimeter
+    -ANSWER:    begin
+                Numeric l,b,a,p
+                Accept l,b
+                a=l*b
+                p=2*(l+b)
+                Display 'a'+p
+                end
