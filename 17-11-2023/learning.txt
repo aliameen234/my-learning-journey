@@ -1,0 +1,31 @@
+what i learnt on friday:
+    1: we started a new slide in logic presentation
+    2: we did some class work
+
+    -QUESTION: consider an example where the following remark should be given to the sudents based on the grades they have
+                scored in the exams.
+                *Grade A: Excellent
+                *Grade B: very good
+                *Grade C: good
+                If any grade is entered by the user instead of A,B,C the message Invalid input should be displayed
+
+    -ANSWER:    begin
+                Accept grade
+                if(grade=A)
+                begin
+                Display "Excellent"
+                end
+                else
+                begin
+                if(grade=B)
+                Display "Very good"
+                end
+                else
+                begin
+                if(grade=C)
+                Display "good"
+                end
+                else
+                Display "invalid input"
+                end
+                end
