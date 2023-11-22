@@ -1,0 +1,18 @@
+what i learned on monday:
+    1: how to use variables and constant
+
+
+    1: A variable refers to the memory location that can store only one value at a time but can vary throughout the program execution.
+    2: A constant refers to a memory location that holds a value, which remains fixed throughout the program execution.
+
+    THEN WE DID AN EXAMPLE:
+    -QUESTION you have to write a pseudocode that accepts two numbers and display their sum abd product 
+    -ANSWER begin
+            numeric nNum1,nNum2,nProduct
+            display "Enter a number"
+            accept nNum1
+            display "Enter another number"
+            accept nNum2
+            nProduct = nNum1*nNum2
+            display nProduct
+            end
