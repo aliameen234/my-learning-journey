@@ -1,0 +1,15 @@
+what i learned on tuesday:
+    1: identify data types
+
+    Data types can be broadly categorized in the following types:
+    1. Numeric
+    2. Character
+
+    A variable should be declared along with data type
+    The data type specifies the type of value to be stored by the variable
+    Each data type allocates a fixed amount of memory space, according to the programming language specification
+    It is essential to declare a variable so that memory is allocated for a value before it is used in program
+    While naming a variable, the following rules must be followed:
+        it can consist of letters (uppercase has well lowercase), digit, or underscore
+        it must begin with a letter or an underscore
+        it must not contain any embedded space and symbol, such as: ?,!,@,#,$,%,^,&,*,(),{},[],.,:,;,"",'',/,\,.
